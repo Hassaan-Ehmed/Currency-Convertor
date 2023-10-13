@@ -1,0 +1,13 @@
+@layer utilities {
+    .content-auto {
+      content-visibility: auto;
+    }
+  }
+
+body{
+background-color: #1f1f1f;
+color: white; 
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode',
+Geneva, Verdana, sans-serif;
+}
+

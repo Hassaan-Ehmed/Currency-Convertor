@@ -1,7 +1,17 @@
-# Currency-Convertor
-Currency Convertor App using TypeScript💙 
+
+# Currency Convertor
+
+A TypeScript Based App where you convert currency from 1 country to another one
 
 
-Tech Stack : [ HTML, TailwindCSS, TypeScript ]
-Procedural Pradigm.
-Main Focus on #TypeScript !
+## Tech Stack
+
+**Frontend** HTML, TailwindCSS, TypeScript
+
+
+## Language </>
+
+App Based on Pure TypeScript💙 !
+
+[Official Documentation](https://www.typescriptlang.org/docs/handbook/typescript-from-scratch.html)
+
